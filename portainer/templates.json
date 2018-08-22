@@ -1,0 +1,15 @@
+[
+  {
+    "type": "stack",
+    "title": "Laravel Stack Example",
+    "description": "Example of a swarm ready laravel application",
+    "note": "nginx on port 80",
+    "categories": ["portainer"],
+    "platform": "linux",
+    "logo": "https://portainer.io/images/logos/portainer.png",
+    "repository": {
+      "url": "https://github.com/mercuriete/laravel-docker-redis",
+      "stackfile": "docker-stack-compose.yml"
+    }
+]
+
