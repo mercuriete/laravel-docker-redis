@@ -6,7 +6,7 @@
     "note": "nginx on port 80",
     "categories": ["portainer"],
     "platform": "linux",
-    "logo": "https://portainer.io/images/logos/portainer.png",
+    "logo": "https://raw.githubusercontent.com/mercuriete/laravel-docker-redis/master/portainer/laravel.png",
     "repository": {
       "url": "https://github.com/mercuriete/laravel-docker-redis",
       "stackfile": "docker-stack-compose.yml"
