@@ -11,5 +11,6 @@
       "url": "https://github.com/mercuriete/laravel-docker-redis",
       "stackfile": "docker-stack-compose.yml"
     }
+  }
 ]
 
