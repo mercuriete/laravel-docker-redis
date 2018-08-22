@@ -1,6 +1,6 @@
 [
   {
-    "type": "stack",
+    "type": 2,
     "title": "Laravel Stack Example",
     "description": "Example of a swarm ready laravel application",
     "note": "nginx on port 80",
